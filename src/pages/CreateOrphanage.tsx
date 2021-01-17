@@ -121,7 +121,6 @@ export default function CreateOrphanage() {
               maxLength={300}
               value={about} 
               onChange={event => setAbout(event.target.value)}/>
-               />
             </div>
 
             <div className="input-block">
